@@ -1,0 +1,150 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('../img/images.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: #075845;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-container img {
+  width: 200px;
+  margin-right: 10px;
+}
+
+
+main {
+  margin: 20px;
+}
+
+.menu-container {
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.select-container {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#menu-select {
+  background-color: #075845;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 20px;
+  width: 100%;
+}
+
+#menu-select option {
+  background-color: #f4f4f4;
+  color: #000;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #075845;
+  color: #fff;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+footer {
+  background-color: #075845;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  border-radius: 5px;
+}
+main {
+  margin: 20px;
+  margin-bottom: 70px; /* Ajuste del margen inferior para dejar espacio al footer */
+}
+
+.footer-placeholder {
+  height: 70px; /* Altura igual al del footer para mantener el espacio */
+}
+.table-responsive {
+  overflow-x: auto;
+}
+/* Media queries */
+@media screen and (max-width: 600px) {
+  .header-container img {
+      width: 40px;
+  }
+  
+  .menu-container {
+      padding: 10px;
+  }
+
+  label {
+      font-size: 16px;
+  }
+
+  #menu-select {
+      font-size: 14px;
+      padding: 8px 16px;
+  }
+
+  table {
+    overflow-x: auto;
+    display: block;
+}
+  th, td {
+      white-space: nowrap;
+      max-width: 200px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+  }
+  .table-responsive {
+      overflow-x: auto;
+  }
+  .table-responsive table {
+      width: 100%;
+  }
+
+}

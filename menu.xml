@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<dish comida="primeros">
+  <name>Ensalada César</name>
+  <description>Ensalada de lechuga romana, pollo, queso parmesano y crutones, aderezada con salsa César</description>
+  <price>10.50</price>
+  <calorias>450</calorias>
+  <ingredientes>
+    <caracteristicas>sin gluten</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="segundos">
+  <name>Solomillo a la parrilla</name>
+  <description>Solomillo de ternera a la parrilla, servido con patatas fritas y ensalada</description>
+  <price>18.00</price>
+  <calorias>550</calorias>
+  <ingredientes>
+    <caracteristicas>carne</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="segundos">
+  <name>Paella valenciana</name>
+  <description>Arroz con pollo, conejo, judías verdes, garrofón, tomate y azafrán, cocido en paellera</description>
+  <price>15.50</price>
+  <calorias>800</calorias>
+  <ingredientes>
+    <caracteristicas>arroz</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="postres">
+  <name>Tarta de manzana</name>
+  <description>Tarta dulce de manzana con base de masa quebrada y canela</description>
+  <price>6.50</price>
+  <calorias>400</calorias>
+  <ingredientes>
+    <caracteristicas>frutas</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="segundos">
+  <name>Salmón a la parrilla</name>
+  <description>Salmón fresco con salsa de limón y eneldo, acompañado de arroz integral y verduras asadas.</description>
+  <price>18.50</price>
+  <calorias>450</calorias>
+  <ingredientes>
+    <caracteristicas>pescado</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="primeros">
+  <name>Carpaccio de ternera</name>
+  <description>Ternera finamente cortada con rúcula fresca, lascas de queso parmesano y vinagreta de mostaza y miel.</description>
+  <price>12.00</price>
+  <calorias>280</calorias>
+  <ingredientes>
+    <caracteristicas>sin gluten</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="segundos">
+  <name>Pechuga de pollo al curry</name>
+  <description>Jugosa pechuga de pollo al curry con arroz basmati y verduras salteadas.</description>
+  <price>15.00</price>
+  <calorias>400</calorias>
+  <ingredientes>
+    <caracteristicas>pollo</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="postres">
+  <name>Mousse de chocolate negro</name>
+  <description>Mousse de chocolate negro con una suave textura y un intenso sabor a cacao.</description>
+  <price>7.00</price>
+  <calorias>350</calorias>
+  <ingredientes>
+    <caracteristicas>vegetariano</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="segundos">
+  <name>Pollo al curry</name>
+  <description>Pollo en salsa de curry con arroz basmati</description>
+  <price>14.00</price>
+  <calorias>550</calorias>
+  <ingredientes>
+    <caracteristicas>pollo</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="postres">
+  <name>Crema catalana</name>
+  <description>Crema pastelera con una capa de azúcar caramelizado</description>
+  <price>5.50</price>
+  <calorias>300</calorias>
+  <ingredientes>
+    <caracteristicas>vegetariano</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="primeros">
+  <name>Croquetas de jamón</name>
+  <description>Croquetas de jamón ibérico con bechamel casera</description>
+  <price>7.00</price>
+  <calorias>450</calorias>
+  <ingredientes>
+    <caracteristicas>destacado</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="primeros">
+  <name>Sopa de cebolla</name>
+  <description>Sopa de cebolla gratinada con queso Gruyère</description>
+  <price>7.50</price>
+  <calorias>280</calorias>
+  <ingredientes>
+    <caracteristicas>vegetariano</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="primeros">
+  <name>Crema de calabaza</name>
+  <description>Crema de calabaza con crujiente de jamón y picatostes</description>
+  <price>6.50</price>
+  <calorias>220</calorias>
+  <ingredientes>
+    <caracteristicas>sin gluten</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="primeros">
+  <name>Pasta al pesto</name>
+  <description>Pasta fresca con salsa de pesto, piñones y queso parmesano</description>
+  <price>10.50</price>
+  <calorias>480</calorias>
+  <ingredientes>
+    <caracteristicas>vegetariano</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="primeros">
+  <name>Pasta Carbonara</name>
+  <description>Spaghetti con salsa de huevo, panceta, queso y pimienta negra</description>
+  <price>12.00</price>
+  <calorias>550</calorias>
+  <ingredientes>
+    <caracteristicas>destacado</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="primeros">
+  <name>Salmorejo cordobés</name>
+  <description>Sopa fría a base de tomate, pan, aceite de oliva, ajo y vinagre, acompañado de huevo duro y jamón serrano</description>
+  <price>7.50</price>
+  <calorias>300</calorias>
+  <ingredientes>
+    <caracteristicas>sin gluten</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="primeros">
+  <name>Tortilla de patatas</name>
+  <description>Clásica tortilla española hecha con patatas, cebolla y huevos</description>
+  <price>6.50</price>
+  <calorias>400</calorias>
+  <ingredientes>
+    <caracteristicas>sin gluten</caracteristicas>
+  </ingredientes>
+</dish>
+<dish comida="segundos">
+  <name>Entrecot de ternera</name>
+  <description>Entrecot de ternera con patatas y pimientos</description>
+  <price>20.00</price>
+  <calorias>600</calorias>
+  <ingredientes>
+    <caracteristicas>destacado</caracteristicas>
+  </ingredientes>
+</dish>
+
+<dish comida="segundos">
+  <name>Merluza a la plancha</name>
+  <description>Merluza a la plancha con verduras</description>
+  <price>16.00</price>
+  <calorias>400</calorias>
+  <ingredientes>
+    <caracteristicas>pescado</caracteristicas>
+  </ingredientes>
+</dish>
+
+<dish comida="segundos">
+  <name>Lasaña de carne</name>
+  <description>Lasaña de carne con bechamel y queso gratinado</description>
+  <price>14.00</price>
+  <calorias>800</calorias>
+  <ingredientes>
+    <caracteristicas>carne</caracteristicas>
+  </ingredientes>
+</dish>
+
+<dish comida="segundos">
+  <name>Pollo asado</name>
+  <description>Pollo asado con patatas y ensalada</description>
+  <price>12.00</price>
+  <calorias>500</calorias>
+  <ingredientes>
+    <caracteristicas>sin gluten</caracteristicas>
+  </ingredientes>
+</dish>
+
+<dish comida="segundos">
+  <name>Arroz con pollo y verduras</name>
+  <description>Arroz con pollo y verduras al estilo oriental</description>
+  <price>18.00</price>
+  <calorias>700</calorias>
+  <ingredientes>
+    <caracteristicas>arroz</caracteristicas>
+  </ingredientes>
+</dish>
+    <dish comida="primeros">
+        <name>Ensalada Mediterránea</name>
+        <description>Ensalada de tomate, mozzarella fresca, albahaca y aceitunas, aliñada con aceite de oliva virgen extra</description>
+        <price>9.50</price>
+        <calorias>350</calorias>
+        <ingredientes>
+            <caracteristicas>vegetariano</caracteristicas>
+        </ingredientes>
+    </dish>
+    <dish comida="segundos">
+        <name>Lomo de Cerdo a la Parrilla</name>
+        <description>Lomo de cerdo a la parrilla marinado en especias mediterráneas, acompañado de patatas al horno y vegetales salteados</description>
+        <price>16.50</price>
+        <calorias>600</calorias>
+        <ingredientes>
+            <caracteristicas>sin gluten</caracteristicas>
+        </ingredientes>
+    </dish>
+    <dish comida="segundos">
+        <name>Pescado a la Veracruzana</name>
+        <description>Pescado fresco cocido en salsa de tomate, aceitunas, alcaparras y chiles, servido con arroz blanco</description>
+        <price>17.50</price>
+        <calorias>450</calorias>
+        <ingredientes>
+            <caracteristicas>pescado</caracteristicas>
+        </ingredientes>
+    </dish>
+    <dish comida="postres">
+        <name>Helado de Limón Casero</name>
+        <description>Helado cremoso de limón hecho en casa, refrescante y delicioso</description>
+        <price>5.00</price>
+        <calorias>250</calorias>
+        <ingredientes>
+            <caracteristicas>sin gluten</caracteristicas>
+        </ingredientes>
+    </dish>
+    <dish comida="segundos">
+        <name>Estofado de Ternera</name>
+        <description>Ternera cocida a fuego lento en una salsa rica y espesa, servida con puré de patatas</description>
+        <price>18.00</price>
+        <calorias>700</calorias>
+        <ingredientes>
+            <caracteristicas>destacado</caracteristicas>
+        </ingredientes>
+    </dish>
+</menu>
+
